@@ -1,6 +1,6 @@
 # Olá sou Débora
 
-👩‍💻 Learning Desenvolvedora full Stack
+👩‍💻 Learning Full Stack
 
 👩‍🦰 Prononuns: ela/dela
 
@@ -26,7 +26,7 @@
  <a href="https://discord.gg/Débora#9331" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/débora-pereira-de-oliveira-063953198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Lolisdu/Lolisdu/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/lolisdu/lolisdu/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
