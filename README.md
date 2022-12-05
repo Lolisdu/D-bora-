@@ -1,6 +1,6 @@
 # Olá sou Débora
 
-👩‍💻 Desenvolver Full Stack
+👩‍💻 Desenvolvera Full Stack
 
 👩‍🦰 Prononuns: ela/dela
 
