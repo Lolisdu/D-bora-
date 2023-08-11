@@ -1,11 +1,10 @@
 # Olá sou Débora
-
-👩‍💻 Desensenvolvera Full Stack
-
-<div
-<p align="center">
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<div>
+<p> [Ciêntista de Dados => Objetivo] <br/br>
+  {Desenvolvedora Full Stack == formação inicial}
 </p>
+  <div align="center">
+  <img  height="200" width="200" src="https://github.com/Lolisdu/Lolisdu/blob/main/assets/lisa.png"/>
 </div>
 
 <div align="center">
@@ -16,14 +15,14 @@
 
 
 <div style="display: inline_block"><br>
-  <p> Aprendendo </p>
+  <p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
   <img align="center" alt="De-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="De-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="De-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-         
-  
-  
+   <img align="center" alt="Pithon" height="30" width="40" src="" />
+             
 </div>
   
   ##
