@@ -1,11 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA17B4&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Débora+Oliveira;I'm+from+Brazil;I'm+Graduating+Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-  <div align="center">
-  <img  height="200" width="200" src="https://github.com/Lolisdu/Lolisdu/blob/main/assets/lisa.png"/>
-</div>
+<br><br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lolisdu&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Débora Oliveira github stats" /> 
@@ -18,15 +14,17 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
   </p>
   <br/br>
+   <img align="right" height="500cm" src="https://github.com/Lolisdu/Lolisdu/blob/main/assets/inteligencia.jpg"/>
   
   
-  <div>
+  <div align="center">
     <p> ★彡[ʟɪɴɢᴜᴀɢᴇɴꜱ ᴛᴏᴘ]彡★ </p>
     <img align="center"src="https://img.shields.io/badge/Criando-%3E%3EDesign-pink?logo=HTML5&logoColor=yellow"><br>
-  <img align="center" src="https://img.shields.io/badge/Criando-%3E%3EDesign-orange?logo=CSS3&logoColor=yellow">
+  <img align="center" src="https://img.shields.io/badge/Explorando-%3E%3EArte-orange?logo=CSS3&logoColor=yellow">
   </div>
   <br><br>
-<div>
+   
+<div align="center">
 <p> ★彡[ꜱᴇ ᴇᴜ ꜱᴏᴜʙᴇꜱꜱᴇ ᴀɴᴛᴇꜱ]彡★ </p>
  <img src="https://img.shields.io/badge/Adorando😍-Python-green?logo=python&logoColor=yellow"/> <br>
   <img src= "https://img.shields.io/badge/Estudando-%3E%3Ejavascript-blue?logo=javascript&logoColor=white"/> 
