@@ -1,40 +1,47 @@
-# Olá sou Débora
-<div>
-<p> [Ciêntista de Dados => Objetivo] <br/br>
-  {Desenvolvedora Full Stack == formação inicial}
-</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA17B4&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Débora+Oliveira;I'm+from+Brazil;I'm+Graduating+Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+
   <div align="center">
   <img  height="200" width="200" src="https://github.com/Lolisdu/Lolisdu/blob/main/assets/lisa.png"/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/Lolisdu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lolisdu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lolisdu&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Lolisdu&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Débora Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lolisdu&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 
-<div style="display: inline_block"><br>
+<br>
   <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-  <img align="center" alt="De-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="De-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="De-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Pithon" height="30" width="40" src="" />
-             
+  </p>
+  <br/br>
+  
+  
+  <div>
+    <p> ★彡[ʟɪɴɢᴜᴀɢᴇɴꜱ ᴛᴏᴘ]彡★ </p>
+    <img align="center"src="https://img.shields.io/badge/Criando-%3E%3EDesign-pink?logo=HTML5&logoColor=yellow"><br>
+  <img align="center" src="https://img.shields.io/badge/Criando-%3E%3EDesign-orange?logo=CSS3&logoColor=yellow">
+  </div>
+  <br><br>
+<div>
+<p> ★彡[ꜱᴇ ᴇᴜ ꜱᴏᴜʙᴇꜱꜱᴇ ᴀɴᴛᴇꜱ]彡★ </p>
+ <img src="https://img.shields.io/badge/Adorando😍-Python-green?logo=python&logoColor=yellow"/> <br>
+  <img src= "https://img.shields.io/badge/Estudando-%3E%3Ejavascript-blue?logo=javascript&logoColor=white"/> 
 </div>
   
   ##
-
-  <div align="center"> 
+<div align="center"> 
+  <p> ★彡[ʀᴇᴅᴇꜱ | ꜱᴏᴄɪᴀɪꜱ]彡★ </p><br>
 <a href="https://instagram.com/eu.deborah.h" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/Débora#9331" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/débora-pereira-de-oliveira-063953198/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/lolisdu/lolisdu/blob/output/github-contribution-grid-snake.svg)
- 
+   
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA17B4&height=120&section=footer"/>
 
 
 
