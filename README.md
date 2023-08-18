@@ -10,6 +10,7 @@
   <br/br>
    <img align="right" height="500cm" src="https://github.com/Lolisdu/Lolisdu/blob/main/assets/inteligencia.jpg"/>
   
+  ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Lolisdu&layout=compact&bg_color=000&border_color=F633FF&title_color=370458&text_color=FFF)
   
   <div align="center">
     <p> ★彡[ʟɪɴɢᴜᴀɢᴇɴꜱ ᴛᴏᴘ]彡★ </p>
@@ -23,7 +24,7 @@
  <img src="https://img.shields.io/badge/Adorando😍-Python-green?logo=python&logoColor=yellow"/> <br>
   <img src= "https://img.shields.io/badge/Estudando-%3E%3Ejavascript-blue?logo=javascript&logoColor=white"/> 
 </div>
-  
+
   ##
 <div align="center"> 
   <p> ★彡[ʀᴇᴅᴇꜱ | ꜱᴏᴄɪᴀɪꜱ]彡★ </p><br>
