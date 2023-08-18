@@ -3,12 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Débora+Oliveira;I'm+from+Brazil;I'm+Graduating+Data+Scientist;Be+Welcome!+:%29)](https://git.io/typing-svg)
 <br><br>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-git-marsterrstaa-rickstaa.vercel.app/api?username=Lolisdu&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Débora Oliveira github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-marsterrstaa-rickstaa.vercel.app/api?/top-langs/?username=Lolisdu&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-
 <br>
   <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
