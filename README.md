@@ -15,7 +15,8 @@
   <div align="center">
     <p> ★彡[ʟɪɴɢᴜᴀɢᴇɴꜱ ᴛᴏᴘ]彡★ </p>
     <img align="center"src="https://img.shields.io/badge/Criando-%3E%3EDesign-pink?logo=HTML5&logoColor=yellow"><br>
-  <img align="center" src="https://img.shields.io/badge/Explorando-%3E%3EArte-orange?logo=CSS3&logoColor=yellow">
+    <img align="center" src="https://img.shields.io/badge/Explorando-%3E%3EArte-orange?logo=CSS3&logoColor=yellow"><br>
+    <img align="center" src="https://img.shields.io/badge/Aprendendo-%3E%3E%3E%3E%3E-red?logo=Angular&logo%22">
   </div>
   <br><br>
    
